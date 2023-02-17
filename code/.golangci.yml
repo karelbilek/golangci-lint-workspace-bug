@@ -1,0 +1,10 @@
+linters:
+  disable:
+    - unused
+  enable:
+    - dumb_linter
+linters-settings:
+  custom:
+    dumb_linter:
+      path: dumb_linter.so
+      description: dumb linter
