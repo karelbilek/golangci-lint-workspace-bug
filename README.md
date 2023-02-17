@@ -1,0 +1,1 @@
+This is just a repo to report bug for golangci-lint
